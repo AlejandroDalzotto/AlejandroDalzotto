@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hola, mi nombre es Alejandro 👋
 
-<!--
-**AlejandroDalzotto/AlejandroDalzotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy programador Full Stack y aprendiz de desarrollo de software desde hace 2 años. 
+</br>
+Mi meta es mejorar mi nivel como desarrollador, formándome y aprendiendo cada día sobre este increíble mundo de la tecnología.
+</br>
+Soy de Argentina recibido en Técnico Superior en Programación en la Universidad Tecnológica Nacional.
 
-Here are some ideas to get you started:
+### Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![CSS]()]()
