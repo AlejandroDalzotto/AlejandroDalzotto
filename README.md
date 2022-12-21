@@ -33,7 +33,7 @@ Soy de Argentina recibido en Técnico Superior en Programación en la Universida
         </li>
     </ul>
 
-### Contacto
+### ✉ Contacto
 
 [![Email](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:aledalzotto15@gmail.com)
 </br>
