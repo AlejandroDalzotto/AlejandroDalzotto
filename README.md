@@ -26,7 +26,7 @@ Soy de Argentina recibido en Técnico Superior en Programación en la Universida
             <a style="text-decoration: none; color: #fafafa;" href="https://alejandrodalzotto.github.io/">🌟 Portafolio Web</a>
         </li>
         <li>
-            <a style="text-decoration: none; color: #fafafa;" href="https://comunicate-con-nosotros.herokuapp.com/home">🔈 Comunicate</a>
+            <a style="text-decoration: none; color: #fafafa;" href="https://lm4nu.github.io/Comunicate/">🔈 Comunicate</a>
         </li>
         <li>
             <a style="text-decoration: none; color: #fafafa;" href="https://github.com/WaldoCuevas/StockTracking">🐄 StockTracking</a>
