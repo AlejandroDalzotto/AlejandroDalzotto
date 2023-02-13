@@ -38,6 +38,9 @@ Soy de Argentina recibido en Técnico Superior en Programación en la Universida
         <li>
             <a style="text-decoration: none; color: #fafafa;" href="https://alejandrodalzotto.github.io/carrito-de-compras/">🛒 Carrito de compras</a>
         </li>
+        <li>
+            <a style="text-decoration: none; color: #fafafa;" href="https://alejandrodalzotto.github.io/galeria-de-imagenes/">🔍 Buscador de imagenes</a>
+        </li>
     </ul>
 
 ### ✉ Contacto
