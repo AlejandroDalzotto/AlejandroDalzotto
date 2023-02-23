@@ -30,6 +30,9 @@ Soy de Argentina recibido en Técnico Superior en Programación en la Universida
             <a style="text-decoration: none; color: #fafafa;" href="https://alejandrodalzotto.github.io/">🌟 Portafolio Web</a>
         </li>
         <li>
+            <a style="text-decoration: none; color: #fafafa;" href="https://alejandrodalzotto-portfolio.vercel.app/">🌌 Portafolio Web (NextJS Version)</a>
+        </li>
+        <li>
             <a style="text-decoration: none; color: #fafafa;" href="https://lm4nu.github.io/Comunicate/">🔈 Comunicate</a>
         </li>
         <li>
