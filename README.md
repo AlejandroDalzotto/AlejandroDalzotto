@@ -27,6 +27,7 @@ Soy de Argentina recibido en Técnico Superior en Programación en la Universida
 </br>
 ### Otras:
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
 
 ## 🌺 Proyectos
 
