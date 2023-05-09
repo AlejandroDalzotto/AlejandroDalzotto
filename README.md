@@ -1,4 +1,4 @@
-# Hola, mi nombre es Alejandro 👋 
+# Hola, mi nombre es Alejandro 👋
 
 Soy **programador Full Stack** y aprendiz de desarrollo de software desde hace 2 años. 
 </br>
@@ -18,6 +18,7 @@ Soy de Argentina recibido en Técnico Superior en Programación en la Universida
 [![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)]()
 </br>
 ### Back-end:
+
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
@@ -26,8 +27,13 @@ Soy de Argentina recibido en Técnico Superior en Programación en la Universida
 [![EXPRESSJS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 </br>
 ### Otras:
+
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodalzotto&hide_progress=true&theme=swift&show_icons=true&hide_border=true)
 
 ## 🌺 Proyectos
 
@@ -47,7 +53,9 @@ Soy de Argentina recibido en Técnico Superior en Programación en la Universida
         <li>
             <a style="text-decoration: none; color: #fafafa;" href="https://alejandrodalzotto.github.io/galeria-de-imagenes/">🔍 Buscador de imagenes</a>
         </li>
-    </ul>
+</ul>
+
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroDalzotto&show_icons=true&theme=swift)
 
 ### ✉ Contacto
 
