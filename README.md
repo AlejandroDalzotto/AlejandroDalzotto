@@ -6,6 +6,10 @@ Mi meta es mejorar mi nivel como desarrollador, formándome y aprendiendo cada d
 </br>
 Soy de Argentina recibido en Técnico Superior en Programación en la Universidad Tecnológica Nacional.
 
+<div align="center">
+    <img width="25%" src="https://i.pinimg.com/originals/c5/1f/5a/c51f5ad5cc105c0b2cc6b278a04e4a82.gif" />
+</div>
+
 ## 🤖 Tecnologías
 
 ### Front-end:
