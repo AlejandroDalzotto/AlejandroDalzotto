@@ -2,7 +2,7 @@
 
 Currently, I'm working as a **Freelance Full Stack Web Developer**, mainly using Next, the React framework for the web and sometimes developing web pages with Astro, the web framework for content-driven websites.
 </br>
-I studied **Programming Technique** at the National Technological University (UTN) of Argentina.
+I completed a **Programming Technical Degree** at the National Technological University (UTN) of Argentina.
 
 
 <div align="center">
