@@ -72,4 +72,8 @@ I completed a **Programming Technical Degree** at the National Technological Uni
 
 # I love music 🎶
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=39wqbmfmwtpg6xauxh0yg8rin&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=39wqbmfmwtpg6xauxh0yg8rin&redirect=true)
+*Now playing on Spotify* 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=39wqbmfmwtpg6xauxh0yg8rin&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=39wqbmfmwtpg6xauxh0yg8rin&redirect=true)
+
+[![My Profile](https://img.shields.io/badge/My_profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=101010)](https://open.spotify.com/user/39wqbmfmwtpg6xauxh0yg8rin?si=d641ef403ca14f28)
