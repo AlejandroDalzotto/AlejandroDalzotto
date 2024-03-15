@@ -47,7 +47,7 @@ I completed a **Programming Technical Degree** at the National Technological Uni
 - [🐄 StockTracking](https://github.com/WaldoCuevas/StockTracking)
 - [☕ Codeffee](https://codeffee.vercel.app/)
 - [🔍 Image search](https://alejandrodalzotto.github.io/galeria-de-imagenes/)
-- [ Varano project](https://github.com/AlejandroDalzotto/students-app-frontend)
+- [👩🏻‍🏫 Varano project](https://github.com/AlejandroDalzotto/varano)
 
 ## ✉ Let's talk
 
