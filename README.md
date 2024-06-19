@@ -54,27 +54,3 @@ I completed a **Programming Technical Degree** at the National Technological Uni
 
 [![Email](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:aledalzotto15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alejandro-dalzotto-44214a24b/)
-
-## Github Stats 💯
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alejandrodalzotto&show_icons=true&theme=onedark&bg_color=00000030&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alejandrodalzotto&show_icons=true&theme=onedark&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandrodalzotto&show_icons=true&theme=onedark&bg_color=00000030&hide_border=true" />
-</picture>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlejandroDalzotto&theme=onedark&hide_border=true&background=00000030)](https://git.io/streak-stats)
-
-# I love music 🎶
-
-*Now playing on Spotify* 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=39wqbmfmwtpg6xauxh0yg8rin&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=39wqbmfmwtpg6xauxh0yg8rin&redirect=true)
-
-[![My Profile](https://img.shields.io/badge/My_profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=101010)](https://open.spotify.com/user/39wqbmfmwtpg6xauxh0yg8rin?si=d641ef403ca14f28)
