@@ -1,13 +1,20 @@
-# Hi there, my name is Alejandro 👋
-
-Currently, I'm working as a **Freelance Full Stack Web Developer**, mainly using Next, the React framework for the web and sometimes developing web pages with Astro, the web framework for content-driven websites.
-</br>
-I completed a **Programming Technical Degree** at the National Technological University (UTN) of Argentina.
-
-
-<div align="center">
-    <img width="25%" src="https://i.pinimg.com/originals/c5/1f/5a/c51f5ad5cc105c0b2cc6b278a04e4a82.gif" />
-</div>
+<table>
+    <tr>
+        <td>
+            <div width="100%" align="left">
+                <img width="100%" src="https://i.pinimg.com/originals/bb/6d/76/bb6d7677244c8427db85c4d7e2a903ca.gif" />
+            </div>
+        </td>
+        <td>
+            <div>
+                <h1>Hi there, my name is Alejandro 👋</h1>
+                <p>Currently, I'm working as a <strong>Freelance Full Stack Web Developer</strong>, mainly using Next, the React framework for the web and sometimes developing web pages with Astro, the web framework for content-driven websites.</p>
+                </br>
+                <p>I completed a <strong>Programming Technical Degree</strong> at the National Technological University (UTN) of Argentina.</p>
+            </div>
+        </td>
+    </tr>
+</table>
 
 ## 📌 Skills
 
