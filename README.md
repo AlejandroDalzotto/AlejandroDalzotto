@@ -52,10 +52,7 @@
 - [🌌 Web Portfolio](https://alejandrodalzotto-portfolio.vercel.app/)
 - [🎤 Comunicate](https://lm4nu.github.io/Comunicate/)
 - [🐄 StockTracking](https://github.com/WaldoCuevas/StockTracking)
-- [☕ Codeffee](https://codeffee.vercel.app/)
-- [🔍 Image search](https://alejandrodalzotto.github.io/galeria-de-imagenes/)
 - [👩🏻‍🏫 Varano project](https://github.com/AlejandroDalzotto/varano)
-- [🧠 Guess English](https://github.com/AlejandroDalzotto/guess-english)
 
 ## ✉ Let's talk
 
