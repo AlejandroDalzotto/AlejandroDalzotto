@@ -27,7 +27,7 @@ If you want to talk to me, you can reach me at [LinkedIn](https://www.linkedin.c
 ![NODEJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)
 
-### But I also can work with
+### But I've also worked with
 
 ![TAURI](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white&labelColor=101010)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)
@@ -48,7 +48,7 @@ As I said above, I'm currently leaning about Tauri and Rust. Develope desktop ap
 
 ## 🌺 Projects I've worked on
 
-- [✍🏻 Taking Notes](https://github.com/AlejandroDalzotto/taking-notes/releases/latest): A simple, user-friendly desktop app to centralize and manage your `.txt` and `.md` notes.
+- [✍🏻 Taking Notes](https://github.com/AlejandroDalzotto/taking-notes/releases/latest): A simple, user-friendly desktop app to centralize and manage your `.txt` and `.md` notes. (**Currently working on**)
 - [🎤 Comunicate](https://lm4nu.github.io/Comunicate/): A PWA built with `Angular` to help teachers communicate more efficiently with special needs students through pictograms.
 
 ### Some unfinished projects I'd like to complete in the near future
