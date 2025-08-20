@@ -48,7 +48,8 @@ As I said above, I'm currently leaning about Tauri and Rust. Develope desktop ap
 
 ## 🌺 Projects I've worked on
 
-- [✍🏻 Taking Notes](https://github.com/AlejandroDalzotto/taking-notes/releases/latest): A simple, user-friendly desktop app to centralize and manage your `.txt` and `.md` notes. (**Currently working on**)
+- [💫 Orbit](https://github.com/AlejandroDalzotto/orbit): A desktop application that records income and expenses, manages savings, and automatically updates your personal wallet, along with other features. (**Currently working on**)
+- [✍🏻 Taking Notes](https://github.com/AlejandroDalzotto/taking-notes/releases/latest): A simple, user-friendly desktop app to centralize and manage your `.txt` and `.md` notes.
 - [🎤 Comunicate](https://lm4nu.github.io/Comunicate/): A PWA built with `Angular` to help teachers communicate more efficiently with special needs students through pictograms.
 
 ### Some unfinished projects I'd like to complete in the near future
