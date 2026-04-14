@@ -19,11 +19,6 @@ If you want to talk to me, you can reach me at [LinkedIn](https://www.linkedin.c
 - [✍🏻 Taking Notes](https://github.com/AlejandroDalzotto/taking-notes/releases/latest): A simple, user-friendly desktop app to centralize and manage your `.txt` and `.md` notes.
 - [🎤 Comunicate](https://lm4nu.github.io/Comunicate/): A PWA built with `Angular` to help teachers communicate more efficiently with special needs students through pictograms.
 
-### Some unfinished projects I'd like to complete in the near future
-
-- [👩🏻‍🏫 Varano](https://github.com/AlejandroDalzotto/varano): An application developed to help educational institutions manage their data securely and easily through an intuitive user interface, providing various tools to assist in searching for registered data.
-- [📚 Zephyr Translator](https://zephyr-translator.vercel.app/): A Next.js-powered website that leverages AI to translate text between English and Spanish.
-
 #### Code projects I've made to practice and learn new technologies
 
 - [Devdle](https://github.com/AlejandroDalzotto/devdle): A programming language-themed Wordle variant made with `Qwik`, focused on learning the framework and its zero-JS delivery.
