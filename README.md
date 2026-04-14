@@ -9,11 +9,10 @@ I mainly use Next.js, tailwind, and typescript. Recently, I have been also explo
 If you want to talk to me, you can reach me at [LinkedIn](https://www.linkedin.com/in/alejandro-dalzotto-44214a24b/) or via [email.](mailto:aledalzotto15@gmail.com)
 
 ## Stack
-![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
-![TAURI](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white&labelColor=101010)
 
-## 🌺 Projects I've worked on
+Next.js · TypeScript · Tauri · Tailwind CSS · Rust
+
+## Projects I've worked on
 
 - [💫 Orbit](https://github.com/AlejandroDalzotto/orbit): A desktop application that records income and expenses, manages savings, and automatically updates your personal wallet, along with other features. (**Currently working on**)
 - [✍🏻 Taking Notes](https://github.com/AlejandroDalzotto/taking-notes/releases/latest): A simple, user-friendly desktop app to centralize and manage your `.txt` and `.md` notes.
