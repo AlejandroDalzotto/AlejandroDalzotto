@@ -2,8 +2,6 @@
 
 I'm Alejandro, a web developer based in Argentina.
 
-I build fancy, fast, and complete web applications. If you got an idea, I can build it and ship it.
-
 I mainly use Next.js, tailwind, and typescript. Recently, I have been also exploring the world of cross-platform software development by working with technologies like Tauri, a framework for creating cross-platform desktop applications using web technologies, and Rust, a systems programming language focused on safety and performance.
 
 If you want to talk to me, you can reach me at [LinkedIn](https://www.linkedin.com/in/alejandro-dalzotto-44214a24b/) or via [email.](mailto:aledalzotto15@gmail.com)
