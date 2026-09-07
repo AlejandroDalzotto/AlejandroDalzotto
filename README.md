@@ -12,6 +12,7 @@ Next.js · TypeScript · Tauri · Tailwind CSS · Rust
 
 ## Projects I've worked on
 
+- [🎁 BonusBissen](https://github.com/gnosticDeveloper/bonusbissen): A multi-tenant SaaS loyalty platform that helps local businesses reward and retain customers through a points-based system redeemable via unique codes. (**Currently working on**).
 - [💫 Orbit](https://github.com/AlejandroDalzotto/orbit): A desktop application that records income and expenses, manages savings, and automatically updates your personal wallet, along with other features. (**Currently working on**)
 - [✍🏻 Taking Notes](https://github.com/AlejandroDalzotto/taking-notes/releases/latest): A simple, user-friendly desktop app to centralize and manage your `.txt` and `.md` notes.
 - [🎤 Comunicate](https://lm4nu.github.io/Comunicate/): A PWA built with `Angular` to help teachers communicate more efficiently with special needs students through pictograms.
